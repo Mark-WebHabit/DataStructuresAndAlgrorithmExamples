@@ -1,0 +1,15 @@
+/home/mark/Desktop/clients/dsa/AVLTree/bin/Debug/net8.0/avl
+/home/mark/Desktop/clients/dsa/AVLTree/bin/Debug/net8.0/avl.deps.json
+/home/mark/Desktop/clients/dsa/AVLTree/bin/Debug/net8.0/avl.runtimeconfig.json
+/home/mark/Desktop/clients/dsa/AVLTree/bin/Debug/net8.0/avl.dll
+/home/mark/Desktop/clients/dsa/AVLTree/bin/Debug/net8.0/avl.pdb
+/home/mark/Desktop/clients/dsa/AVLTree/obj/Debug/net8.0/avl.GeneratedMSBuildEditorConfig.editorconfig
+/home/mark/Desktop/clients/dsa/AVLTree/obj/Debug/net8.0/avl.AssemblyInfoInputs.cache
+/home/mark/Desktop/clients/dsa/AVLTree/obj/Debug/net8.0/avl.AssemblyInfo.cs
+/home/mark/Desktop/clients/dsa/AVLTree/obj/Debug/net8.0/avl.csproj.CoreCompileInputs.cache
+/home/mark/Desktop/clients/dsa/AVLTree/obj/Debug/net8.0/avl.sourcelink.json
+/home/mark/Desktop/clients/dsa/AVLTree/obj/Debug/net8.0/avl.dll
+/home/mark/Desktop/clients/dsa/AVLTree/obj/Debug/net8.0/refint/avl.dll
+/home/mark/Desktop/clients/dsa/AVLTree/obj/Debug/net8.0/avl.pdb
+/home/mark/Desktop/clients/dsa/AVLTree/obj/Debug/net8.0/avl.genruntimeconfig.cache
+/home/mark/Desktop/clients/dsa/AVLTree/obj/Debug/net8.0/ref/avl.dll
