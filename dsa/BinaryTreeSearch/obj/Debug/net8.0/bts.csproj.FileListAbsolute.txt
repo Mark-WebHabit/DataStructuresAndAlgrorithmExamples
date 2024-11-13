@@ -1,0 +1,14 @@
+/home/mark/Desktop/clients/dsa/BinaryTreeSearch/bin/Debug/net8.0/bts
+/home/mark/Desktop/clients/dsa/BinaryTreeSearch/bin/Debug/net8.0/bts.deps.json
+/home/mark/Desktop/clients/dsa/BinaryTreeSearch/bin/Debug/net8.0/bts.runtimeconfig.json
+/home/mark/Desktop/clients/dsa/BinaryTreeSearch/bin/Debug/net8.0/bts.dll
+/home/mark/Desktop/clients/dsa/BinaryTreeSearch/bin/Debug/net8.0/bts.pdb
+/home/mark/Desktop/clients/dsa/BinaryTreeSearch/obj/Debug/net8.0/bts.GeneratedMSBuildEditorConfig.editorconfig
+/home/mark/Desktop/clients/dsa/BinaryTreeSearch/obj/Debug/net8.0/bts.AssemblyInfoInputs.cache
+/home/mark/Desktop/clients/dsa/BinaryTreeSearch/obj/Debug/net8.0/bts.AssemblyInfo.cs
+/home/mark/Desktop/clients/dsa/BinaryTreeSearch/obj/Debug/net8.0/bts.csproj.CoreCompileInputs.cache
+/home/mark/Desktop/clients/dsa/BinaryTreeSearch/obj/Debug/net8.0/bts.dll
+/home/mark/Desktop/clients/dsa/BinaryTreeSearch/obj/Debug/net8.0/refint/bts.dll
+/home/mark/Desktop/clients/dsa/BinaryTreeSearch/obj/Debug/net8.0/bts.pdb
+/home/mark/Desktop/clients/dsa/BinaryTreeSearch/obj/Debug/net8.0/bts.genruntimeconfig.cache
+/home/mark/Desktop/clients/dsa/BinaryTreeSearch/obj/Debug/net8.0/ref/bts.dll
